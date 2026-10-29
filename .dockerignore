@@ -1,0 +1,41 @@
+# Git
+.git/
+.gitignore
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+
+# Pytest / Testing artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+tests/
+
+# Documentation & planning
+docs/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+[Dd]esktop.ini
+
+# Environment and secrets
+.env
+.env.*
