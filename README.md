@@ -9,7 +9,7 @@
 
 An interactive, CPU-friendly, Dockerized academic performance analytics dashboard built for educators, department coordinators, and academic mentors.
 
-- **Developer:** Daniel Richard Xavier
+- **Developer:** Navya
 - **GitHub Repository:** [https://github.com/drx2k06/miniproject7.git](https://github.com/drx2k06/miniproject7.git)
 - **Local Directory:** `C:\Users\drx20\Projects\miniproject7`
 
