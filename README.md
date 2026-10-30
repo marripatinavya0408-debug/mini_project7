@@ -9,9 +9,9 @@
 
 An interactive, CPU-friendly, Dockerized academic performance analytics dashboard built for educators, department coordinators, and academic mentors.
 
-- **Developer:** Navya
-- **GitHub Repository:** [https://github.com/drx2k06/miniproject7.git](https://github.com/drx2k06/miniproject7.git)
-- **Local Directory:** `C:\Users\drx20\Projects\miniproject7`
+- **Developer:** Navya M
+- **GitHub Repository:** https://github.com/marripatinavya0408-debug/mini_project7
+- **Project directory:StudentPulse
 
 ---
 
@@ -341,18 +341,11 @@ Detailed test results and matrix are documented in [docs/TEST_REPORT.md](docs/TE
 ---
 
 ## 19. Developer Contributions
-- **Project Concept & Architecture:** Daniel Richard Xavier
-- **UI/UX Design & Streamlit Implementation:** Daniel Richard Xavier
-- **Analytics & Validation Engine:** Daniel Richard Xavier
-- **Dockerization & Container Health Setup:** Daniel Richard Xavier
-- **Automated Pytest Test Suite:** Daniel Richard Xavier
-- **Documentation & College Reports:** Daniel Richard Xavier
+- **Project Concept & Architecture:** Navya M
+- **UI/UX Design & Streamlit Implementation:** Navya M
+- **Analytics & Validation Engine:** Navya M
+- **Dockerization & Container Health Setup:** Navya M
+- **Automated Pytest Test Suite:** Navya M
+- **Documentation & College Reports:** Navya M
 
----
 
-## Repository & Documentation Links
-- **Project Report:** [docs/PROJECT_REPORT.md](docs/PROJECT_REPORT.md)
-- **Architecture Specification:** [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
-- **Docker Deployment Guide:** [docs/DOCKER_GUIDE.md](docs/DOCKER_GUIDE.md)
-- **Automated Test Report:** [docs/TEST_REPORT.md](docs/TEST_REPORT.md)
-- **Final Delivery Report:** [docs/FINAL_REPORT.md](docs/FINAL_REPORT.md)
